@@ -1,0 +1,17 @@
+{
+    "name": "browser.liu-xiao-guo",
+    "description": "description of browser",
+    "architecture": "all",
+    "title": "browser",
+    "hooks": {
+        "Browser": {
+            "apparmor": "Browser.apparmor",
+            "desktop":  "Browser.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Browser
+Exec=qmlscene $@ Main.qml
+Icon=browser.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
